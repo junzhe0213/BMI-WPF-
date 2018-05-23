@@ -1,0 +1,15 @@
+C:\git\BMI.WPF\BMI.WPF\BMI.WPF\bin\Debug\BMI.WPF.exe.config
+C:\git\BMI.WPF\BMI.WPF\BMI.WPF\bin\Debug\BMI.WPF.exe
+C:\git\BMI.WPF\BMI.WPF\BMI.WPF\bin\Debug\BMI.WPF.pdb
+C:\git\BMI.WPF\BMI.WPF\BMI.WPF\obj\Debug\BMI.WPF.csprojResolveAssemblyReference.cache
+C:\git\BMI.WPF\BMI.WPF\BMI.WPF\obj\Debug\MainWindow.g.cs
+C:\git\BMI.WPF\BMI.WPF\BMI.WPF\obj\Debug\App.g.cs
+C:\git\BMI.WPF\BMI.WPF\BMI.WPF\obj\Debug\BMI.WPF_MarkupCompile.cache
+C:\git\BMI.WPF\BMI.WPF\BMI.WPF\obj\Debug\BMI.WPF_MarkupCompile.lref
+C:\git\BMI.WPF\BMI.WPF\BMI.WPF\obj\Debug\MainWindow.baml
+C:\git\BMI.WPF\BMI.WPF\BMI.WPF\obj\Debug\BMI.WPF.g.resources
+C:\git\BMI.WPF\BMI.WPF\BMI.WPF\obj\Debug\BMI.WPF.Properties.Resources.resources
+C:\git\BMI.WPF\BMI.WPF\BMI.WPF\obj\Debug\BMI.WPF.csproj.GenerateResource.cache
+C:\git\BMI.WPF\BMI.WPF\BMI.WPF\obj\Debug\BMI.WPF.csproj.CoreCompileInputs.cache
+C:\git\BMI.WPF\BMI.WPF\BMI.WPF\obj\Debug\BMI.WPF.exe
+C:\git\BMI.WPF\BMI.WPF\BMI.WPF\obj\Debug\BMI.WPF.pdb
